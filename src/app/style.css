@@ -4,7 +4,7 @@
 
 .container{
   display: inline-block;
-  border: 2px solid black;
+  border: 2px solid #002700;
   position: absolute;
   top: 50%;
   left: 50%;
